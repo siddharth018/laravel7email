@@ -12,4 +12,4 @@ php artisan serve
 
 Last step: check from your 
 
-http://localhost:8000/send-mail
+http://localhost:8000/send-mail# laravel7email
