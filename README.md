@@ -1,8 +1,10 @@
 First Step: download in your system.
 
-git clone https://github.com/siddharth018/laravel_mailsend.git
+git clone https://github.com/siddharth018/laravel7email.git
 
 cd laravel_mailsend
+
+composer install
 
 Second Step: Configure your SMTP from .env file
 
